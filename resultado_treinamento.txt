@@ -1,0 +1,5 @@
+K selecionado pelo método do cotovelo: 3
+Silhouette score (referência): 0.2516
+Quantidade de registros: 506
+Atributos utilizados: CRIM, ZN, INDUS, NOX, RM, AGE, DIS, TAX, PTRATIO, B, LSTAT, CHAS, RAD
+MEDV excluída por ser a variável-alvo/valor da residência no conjunto original.
